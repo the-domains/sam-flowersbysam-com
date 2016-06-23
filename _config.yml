@@ -1,0 +1,28 @@
+name: sam@flowersbysam.com
+favicon: null
+layout_spectrum: 0.9532605221029371
+typography_spectrum: 0.1334568215534091
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.42649847897700965
+  lightness: 0.8031123131513596
+  saturation: 0.020899973576888442
+  rhythmicContrast: 0.8547125428449363
+purpose: []
